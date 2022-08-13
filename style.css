@@ -1,0 +1,9 @@
+body{
+    background-image: conic-gradient(red 10%,white 32% , green 30%,blue,yellow);
+}
+.text{
+    font-size: 17px;
+    color:blue;
+    font-weight: bold;
+    text-align: center;
+}

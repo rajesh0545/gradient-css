@@ -1,0 +1,28 @@
+#int{
+    height: 300px;
+    background-color: azure;
+    background-image:Repeating-linear-gradient(yellow,green,red) ;
+}
+
+.data{
+    font-size: 50px;
+    font-weight:bold ;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.data2{
+    text-align: center;
+    font-size:30px ;
+}
+
+
+
+
+
+#grad{
+    height:100px;
+    width:100px;
+    background-image: conic-grandient(red 45deg,yellow 90deg,green,blue,);
+    border-radius: 50%;
+    }
